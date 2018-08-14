@@ -1,0 +1,12 @@
+body{
+	background-image: url("http://sf.co.ua/15/12/wallpaper-3348.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+form{
+	border:4px solid black;
+	margin: 50px 100px 50px;
+	text-align: center;
+
+}
